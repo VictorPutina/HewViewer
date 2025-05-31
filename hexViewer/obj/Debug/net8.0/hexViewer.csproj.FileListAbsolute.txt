@@ -1,0 +1,14 @@
+C:\Users\Victor\Desktop\hexViewer\hexViewer\obj\Debug\net8.0\hexViewer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\hexViewer\hexViewer\obj\Debug\net8.0\hexViewer.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\hexViewer\hexViewer\obj\Debug\net8.0\hexViewer.AssemblyInfo.cs
+C:\Users\Victor\Desktop\hexViewer\hexViewer\obj\Debug\net8.0\hexViewer.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\hexViewer\hexViewer\bin\Debug\net8.0\hexViewer.exe
+C:\Users\Victor\Desktop\hexViewer\hexViewer\bin\Debug\net8.0\hexViewer.deps.json
+C:\Users\Victor\Desktop\hexViewer\hexViewer\bin\Debug\net8.0\hexViewer.runtimeconfig.json
+C:\Users\Victor\Desktop\hexViewer\hexViewer\bin\Debug\net8.0\hexViewer.dll
+C:\Users\Victor\Desktop\hexViewer\hexViewer\bin\Debug\net8.0\hexViewer.pdb
+C:\Users\Victor\Desktop\hexViewer\hexViewer\obj\Debug\net8.0\hexViewer.dll
+C:\Users\Victor\Desktop\hexViewer\hexViewer\obj\Debug\net8.0\refint\hexViewer.dll
+C:\Users\Victor\Desktop\hexViewer\hexViewer\obj\Debug\net8.0\hexViewer.pdb
+C:\Users\Victor\Desktop\hexViewer\hexViewer\obj\Debug\net8.0\hexViewer.genruntimeconfig.cache
+C:\Users\Victor\Desktop\hexViewer\hexViewer\obj\Debug\net8.0\ref\hexViewer.dll
